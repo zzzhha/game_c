@@ -1,0 +1,5 @@
+﻿  test.c
+  wuziqi.c
+D:\please look svcr\xiangmu\c\wuziqi\wuziqi\wuziqi.c(210,4): warning C4013: “exit”未定义；假设外部返回 int
+  正在生成代码...
+  wuziqi.vcxproj -> D:\please look svcr\xiangmu\c\wuziqi\x64\Debug\wuziqi.exe
